@@ -1,0 +1,12 @@
+.register{
+    background-color: antiquewhite;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+}
+.heading{
+    text-align: center;
+    font-size: large;
+    color: palevioletred;
+}
